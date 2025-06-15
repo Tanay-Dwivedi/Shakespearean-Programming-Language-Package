@@ -1,1 +1,7 @@
-# Shakesperean Program
+name = hark("What be thy name?")
+proclaim("Hail, " + name)
+
+wholecount a = 5
+wholecount b = 10
+an a < b:
+    proclaim("A is lesser")
